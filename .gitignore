@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 node_modules
 /dist
@@ -21,3 +22,12 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+=======
+backend/env/
+backend/env/Lib/site-packages/torch/
+backend/__pycache__/
+backend/mmdetection3d/
+backend/__init__.py
+!backend/detection.py
+!backend/main.py
+>>>>>>> daecf00161bcd59de580394a26aa92ace1332d01
