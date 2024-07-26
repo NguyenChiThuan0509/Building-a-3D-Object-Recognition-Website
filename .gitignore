@@ -5,4 +5,3 @@ backend/mmdetection3d/
 backend/__init__.py
 !backend/detection.py
 !backend/main.py
-!frontend/
